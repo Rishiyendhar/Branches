@@ -4,3 +4,5 @@ It doesn't have any branches to the repo yet.
 Now we are in intro branch of ther repoh.
 Here we will see ther second branch and make our edits to the branch intro from main.
 This is trhe new branch into, here we need to save, add and commit for the branch to work.
+I have created second branch.
+This is continuation of intro banch.
