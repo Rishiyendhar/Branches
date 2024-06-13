@@ -1,1 +1,3 @@
-
+We will understand how to branch
+This here is the main branch
+It doesn't have any branches to the repo yet.
